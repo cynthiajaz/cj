@@ -29,7 +29,7 @@ function KeyboardListener() {
   return this.keychar;
  };
  this.kLeft = function () {
-  return String.fromCharCode(37);
+  return String.fromCharCode(36);
  };
  this.kUp = function () {
   return String.fromCharCode(38);
